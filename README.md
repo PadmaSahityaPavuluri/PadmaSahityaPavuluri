@@ -7,7 +7,7 @@
 <h3 align="center">Aspiring Penetration Tester |💡 AI Enthusiast | Python Trainee | Tech Explorer 🚀| 🎓 B.Tech (Graduating 2027) </h3>
 
 <p align="center">
-A passionate and detail-oriented developer currently pursuing B.Tech in Computer Science.Thriving at the intersection of creativity and logic, bringing user-focused web experiences to life while also exploring the fascinating world of AI and machine learning.I'm driven by curiosity and a commitment to continuous learning. Whether it’s building responsive websites or experimenting with smart algorithms, I love solving problems that matter.</p>
+A passionate and detail-oriented developer currently pursuing B.Tech in Internet of Things.Aspiring cybersecurity professional with knowledge of Python and ethical hacking fundamentals, seeking an opportunity to work in a dynamic environment. I aim to enhance my technical expertise while contributing to the security of systems and networks. My objective is to grow into a skilled ethical hacker and provide effective solutions against modern cyber threats.I love solving problems that matter.</p>
 
 📫 Reach Me 
 
@@ -23,6 +23,7 @@ A passionate and detail-oriented developer currently pursuing B.Tech in Computer
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-001F3F?style=for-the-badge&logo=lock&logoColor=white)
 
 
 📊 GitHub Stats 
